@@ -15,4 +15,6 @@ class Car:
         
 toyota = Car("White", "Test", "Test")
 
+print(toyota.make)
+
       
