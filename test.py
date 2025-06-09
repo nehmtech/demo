@@ -12,5 +12,7 @@ class Car:
         self.color = color
         self.brand = brand
         self.make = make
+        
+toyota = Car("White", "Test", "Test")
 
       
