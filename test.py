@@ -10,3 +10,4 @@ def hello(name):
 class Car:
     def __init__(self, color, brand, make):
         self.color = color
+        self.make = make
